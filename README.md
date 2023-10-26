@@ -1,8 +1,18 @@
-# React + Vite
+# Weather app 
+## Description: 
+This app is developed using react + vite. The app is capable of fetching real time weather informations such as
+temperature, humidity, pressure and visibility based on the location. Open weather api is used to fetch 
+infos mentioned above. I've used react hook such as useState to handle the weather data in JSON format,
+this hook also came handy while dealing with the location.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Key features:
+* Responsive design
+* Realtime weather info
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech stack:
+* React + Vite
+* CSS and Bootstrap
+* React hook(useState)
+* React-icons
+* Open weather api
+* Fetch api
