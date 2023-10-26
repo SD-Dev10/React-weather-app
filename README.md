@@ -1,4 +1,4 @@
-# Weather app 
+# Weather App 
 ## Description: 
 This app is developed using react + vite. The app is capable of fetching real time weather informations such as
 temperature, humidity, pressure and visibility based on the location. Open weather api is used to fetch 
